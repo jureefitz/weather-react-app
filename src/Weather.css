@@ -35,11 +35,12 @@
     font-size: 13px;
   }
   
-  #date-time {
+  .Weather .date-time {
     font-size: 20px;
+    font-weight: 300;
   }
   
-  #location-button {
+  .Weather .location-button {
     margin: 0px auto;
   }
   
