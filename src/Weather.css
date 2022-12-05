@@ -1,6 +1,38 @@
+.Weather h1,
+h2,
+small,
+.temperature,
+.city-input,
+.search-button,
+.location-button,
+.temprature,
+.date-time {
+  font-weight: 200;
+}
+h1 {
+  margin-top: 15px;
+  margin-bottom: 0;
+  display: block;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+small {
+  font-size: 12px;
+  display: block;
+  text-align: center;
+} 
+
+.Weather canvas {
+  margin-right: 10px;
+  display: inline-block;
+  padding-top: 8px;
+  }
 .Weather .temperature {
-    font-size: 50px;
-    padding: 5px 0 auto;
+    font-size: 55px;
+    
   }
   
   .Weather .units {
@@ -44,8 +76,5 @@
     margin: 0px auto;
   }
   
-  .Weather img {
-    padding-bottom: 25px;
-    max-width: 30%;
-  }
+ 
   

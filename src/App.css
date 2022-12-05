@@ -8,30 +8,5 @@
   max-width: 620px;
   min-width: 524px;
 }
-.Weather h1,
-h2,
-small,
-.temperature,
-.city-input,
-.search-button,
-.location-button,
-.temprature,
-.date-time {
-  font-weight: 200;
-}
-h1 {
-  margin-top: 15px;
-  margin-bottom: 0;
-  display: block;
-}
 
-h2 {
-  font-size: 24px;
-}
-
-small {
-  font-size: 12px;
-  display: block;
-  text-align: center;
-}
 
