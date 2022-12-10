@@ -4,7 +4,6 @@ small,
 .temperature,
 .city-input,
 .search-button,
-.location-button,
 .temprature,
 .date-time {
   font-weight: 200;
@@ -32,12 +31,14 @@ small {
   }
 .Weather .temperature {
     font-size: 55px;
+    font-weight: 300;
     
   }
   
   .Weather .units {
     position: relative;
-    top: -21px;
+    top: -26px;
+    margin-left: 4px;
   }
   
   .Weather .climate {
@@ -72,9 +73,6 @@ small {
     font-weight: 300;
   }
   
-  .Weather .location-button {
-    margin: 0px auto;
-  }
   
  
   

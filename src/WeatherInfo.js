@@ -11,8 +11,8 @@ export default function WeatherInfo(props){
       Last Searched:
       <h3 className="date-time"><FormattedDate date={props.data.date}/></h3>
       <div className="row">
-        <div className="col-6">
-          <WeatherIcon code={props.data.icon} alt={props.data.description}/>
+      <div className="col-6 d-flex">
+          <WeatherIcon code={props.data.icon} alt={props.data.description} size={45}/>
           <WeatherTemperature fahrenheit={props.data.temperature} />
           
         </div>
