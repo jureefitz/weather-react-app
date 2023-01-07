@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/061/715/original/abed-ismail-_jhUrn9o8yM-unsplash.jpg?1673070398");
+    background-size: cover;
+    display: block;
+
+    color: #fff;
+    padding: 120px 0;
+    background-color: #0E0B10;
+    
+    background-position: top right, center right;
+    background-repeat: no-repeat;
+    
+}

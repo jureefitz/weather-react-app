@@ -3,7 +3,12 @@
     margin-top: 20px;
   }
   
+  .WeatherForecast-temperature-max {
+    color: #507576
+  }
+
   .WeatherForecast-temperature-min {
     opacity: 0.6;
     margin-left: 5px;
+    color: #507576;
   }

@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="conatiner">
+      <div className="container">
         <div className="appborder">
          <Weather defaultCity="Cleveland"/>
         
